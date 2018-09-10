@@ -11,4 +11,4 @@ You'll need to edit the link on line 11 to get the scooters in your area.
 https://scootermap.com/api/vehicles?user_location=45.563239893861635,-122.64168064688386&northeast_point=45.58034345683749,-122.63524334524811&southwest_point=45.54613112227501,-122.6481179485196&company=lime&mode=charge&randomize=false
 ```
 
-Change user_location and southwest_point to represent your general location.
+Change user_location, northeast_point, and southwest_point to represent your general location.
