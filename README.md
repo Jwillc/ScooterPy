@@ -22,7 +22,7 @@ Scroll down to more tools
 
 Click developer tools
 
-![developer tools](https://imgur.com/a/Kiu1C4N)
+![developer tools](https://i.imgur.com/gVPSxzI.png)
 
 Click on the network tab
 
