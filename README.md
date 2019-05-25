@@ -12,3 +12,22 @@ https://scootermap.com/api/vehicles?user_location=45.563239893861635,-122.641680
 ```
 
 Change user_location, northeast_point, and southwest_point to represent your general location.
+
+# How to get your NE & SW Points
+Using Google Chrome go to https://scootermap.com/map
+
+Click the overflow menu (three dots top right)
+
+Scroll down to more tools
+
+Click developer tools
+
+![developer tools](https://imgur.com/a/Kiu1C4N)
+
+Click on the network tab
+
+Zoom out on the map to your desired range
+
+Find the link that starts with vehicles? where company = lime
+
+Click the link and go to the headers tab. Your location, NE & SW points will be there. Copy these into the task link.
